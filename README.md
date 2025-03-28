@@ -11,7 +11,8 @@ I am a **Python developer** with experience in **DevOps, Data Science, and Linux
 
 ### 🔥 **My Projects**
 🚀 **[Trello Downloader](https://github.com/garpastyls/Trello_downloader)** – A free tool for backing up Trello boards (JSON files + attachments).  
-📌 **[Trello to Planka Migration](https://github.com/garpastyls/Trello_to_Planka_migration_script)** – A script to migrate Trello boards to the open-source Kanban platform Planka.  
+🚀 **[Trello to Planka Migration](https://github.com/garpastyls/Trello_to_Planka_migration_script)** – A script to migrate Trello boards to the open-source Kanban platform Planka.
+🚀 **[Bot checker date Planka](https://github.com/garpastyls/bot_checker_date_planka).**- Telegram bot is designed to retrieve information about tasks in Planka for a specific date
 
 ### ⚙️ **Tech Stack**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
