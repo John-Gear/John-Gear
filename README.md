@@ -61,6 +61,6 @@ I am a **Python developer** with experience in **DevOps, Data Science, and Linux
 ---
 
 #### ⚡ **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garpastyls&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garpastyls&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=John-Gear&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Gear&layout=compact&theme=dark)  
 
