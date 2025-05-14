@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sergey Plotnikov  
 
-I am a **Python developer** with experience in **DevOps, Data Science, and Linux server administration**. Passionate about backend development, automation, and cybersecurity.  
+I am a **Python developer** with experience in **DevOps, Data Science, and Linux server administration**. Previously led my own IT development studio. Passionate about backend development, automation, and cybersecurity.  
 
 - 🖥 **Linux Server Administration**: Managing two personal servers for pet projects (Ubuntu, Debian).  
 - 🧠 **Data Science & Machine Learning**: Degree in Data Science, developed custom convolutional neural networks.  
@@ -29,6 +29,9 @@ I am a **Python developer** with experience in **DevOps, Data Science, and Linux
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### 🎓 **Education & Certifications**
+- 📜 **Higher Education Diploma** in *Master of Management*  
+  Issued: June 30, 2014
+  Institution: Lomonosov Moscow State University
 
 - 📜 **Professional Retraining Diploma** in *Data Science / Big Data Specialist*  
   Issued: May 16, 2023  
