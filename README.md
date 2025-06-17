@@ -58,7 +58,13 @@ I am a **Python developer** with experience in **DevOps, Data Science, and Linux
 📧 Email: plotnikoff.sergey@gmail.com  
 💬 Telegram: [@johngear](https://t.me/johngear)  
 🌐 Website: [johngear.ru](https://johngear.ru)  
----
+
+### 💡If you find my project useful, you can support my work — even a small donation makes a difference
+- **Crypto donation: USDT (TRC20):** `TCECqH8ZxXGCQuWZeto1nV9nawbeeV4fG8`
+- **Crypto donation: Bitcoin (BTC):** `bc1q3lvprzayxd3qulk0epk5dh58zx36mfev76wj30`
+- **Crypto donation: Ethereum (ETH):** `0x80DbC00Fd91bAb3D4FE6E6441Dae0719e6bF5c9e`
+- **International card (Visa/Mastercard):**  
+[https://www.donationalerts.com/r/johngear](https://www.donationalerts.com/r/johngear)
 
 📄 This README is also available in [🇷🇺 Russian](./README.ru.md)
 ---
