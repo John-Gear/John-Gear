@@ -11,8 +11,8 @@
 
 ### 🔥 **Мои проекты**
 🚀 **[Nut Classification CNN](https://github.com/garpastyls/Nut_Classify_CNN)** — классификация орехов с помощью сверточной нейросети (легко адаптируется под другие задачи)  
-🚀 **[Trello to Planka Migration](https://github.com/garpastyls/Trello_to_Planka_migration_script)** — скрипт для миграции досок Trello в open-source аналог Planka  
-🚀 **[Bot checker date Planka](https://github.com/garpastyls/bot_checker_date_planka)** — Telegram-бот для получения задач по дате в Planka  
+🚀 **[Trello to Planka Migration](https://github.com/John-Gear/Trello_to_Planka_migration_script_2)** — скрипт для миграции досок Trello в open-source аналог Planka  
+🚀 **[Bot checker date Planka](https://github.com/john-gear/bot_checker_date_planka_2.0)** — Telegram-бот для получения задач по дате в Planka  
 🚀 **[Trello Downloader](https://github.com/garpastyls/Trello_downloader)** — бесплатный инструмент для резервного копирования досок Trello (JSON + вложения)  
 
 ### ⚙️ **Технологии**
