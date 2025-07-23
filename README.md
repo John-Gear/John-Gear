@@ -69,7 +69,7 @@ I am a **Python developer** with experience in **DevOps, Data Science, and Linux
 📄 This README is also available in [🇷🇺 Russian](./README.ru.md)
 ---
 
-#### ⚡ **GitHub Stats**  
+#### ⚡ **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=John-Gear&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Gear&layout=compact&theme=dark)  
 
