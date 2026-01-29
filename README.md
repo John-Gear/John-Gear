@@ -29,10 +29,10 @@ My projects follow a Kaggle-style workflow with reproducible experiments and cle
 ## Kaggle & Machine Learning projects
 
 ### Telco Customer Churn (Classification, Tabular Data)
-Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/garpastyls/Nut_Classify_CNN  
+Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/John-Gear/Nut_Classify_CNN  
 
 ### Nut Classification (CNN, PyTorch)
-Binary / multiclass image classification task: https://github.com/garpastyls/Nut_Classify_CNN
+Binary / multiclass image classification task: https://github.com/John-Gear/Nut_Classify_CNN
 
 ---
 
