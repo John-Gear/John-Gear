@@ -28,8 +28,8 @@ My projects follow a Kaggle-style workflow with reproducible experiments and cle
 
 ## Kaggle & Machine Learning projects
 
-### Nut Classification (CNN, PyTorch)
-Binary / multiclass image classification task: https://github.com/garpastyls/Nut_Classify_CNN
+### Telco Customer Churn (Binary Classification)
+Customer churn prediction task with emphasis on EDA, feature engineering, and cross-validation on tabular data: https://github.com/garpastyls/Nut_Classify_CNN  
 
 ### Nut Classification (CNN, PyTorch)
 Binary / multiclass image classification task: https://github.com/garpastyls/Nut_Classify_CNN
