@@ -28,6 +28,9 @@
 
 ## Kaggle и проекты по Machine Learning
 
+### Home Credit Default Risk - Credit Scoring ML Pipeline
+Разработка модели кредитного скоринга для прогнозирования дефолта клиента и оптимизации портфельной прибыли банка: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
+
 ### Telco Customer Churn (Classification, Tabular Data)
 Задача бинарной классификации по прогнозированию оттока клиентов с использованием feature engineering и валидации моделей на табличных данных: https://github.com/garpastyls/Nut_Classify_CNN  
 
