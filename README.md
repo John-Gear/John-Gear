@@ -26,7 +26,8 @@ My projects follow a Kaggle-style workflow with reproducible experiments and cle
 
 ---
 
-## Kaggle & Machine Learning projects
+### Home Credit Default Risk - Credit Scoring ML Pipeline
+Development of a credit scoring model to predict client default and optimize bank portfolio profits: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
 
 ### Telco Customer Churn (Classification, Tabular Data)
 Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/John-Gear/Telco-Customer-Churn
