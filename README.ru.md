@@ -37,6 +37,9 @@
 ### Nut Classification (CNN, PyTorch)
 Задача бинарной / многоклассовой классификации изображений: https://github.com/garpastyls/Nut_Classify_CNN
 
+### Мой kaggle
+https://www.kaggle.com/johngearonline
+
 ---
 
 ## Другие проекты
