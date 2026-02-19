@@ -35,6 +35,9 @@ Binary classification problem focused on predicting customer churn using feature
 ### Nut Classification (CNN, PyTorch)
 Binary / multiclass image classification task: https://github.com/John-Gear/Nut_Classify_CNN
 
+### My kaggle:
+https://www.kaggle.com/johngearonline
+
 ---
 
 ## Other projects
