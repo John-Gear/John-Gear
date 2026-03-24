@@ -1,8 +1,8 @@
 # Привет, меня зовут Сергей Плотников!
-**Data Scientist / Machine Learning Engineer**
+**Machine Learning Engineer / Full-stack developer**
 
-Я специализируюсь на прикладном машинном обучении и глубинном обучении с упором на структурированный подход к решению задач: разведочный анализ данных (EDA), feature engineering, валидацию моделей и оптимизацию качества.  
-Мои проекты построены в стиле Kaggle — с воспроизводимыми экспериментами и чёткими метриками оценки.
+Я специализируюсь на прикладном машинном обучении и глубоком обучении, уделяя особое внимание структурированному решению задач.
+Я создаю проекты полного цикла: бэкенд + пользовательский интерфейс (FastApi), проекты полностью воспроизводимые с помощью Docker. Также я подключаю различные API и SQL-базы данных.
 
 ---
 
@@ -25,8 +25,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## ML project
 
-## Kaggle и проекты по Machine Learning
+### Nut Classification (CNN, PyTorch)
+Задача бинарной / многоклассовой классификации изображений: https://github.com/garpastyls/Nut_Classify_CNN
 
 ### Home Credit Default Risk - Credit Scoring ML Pipeline
 Разработка модели кредитного скоринга для прогнозирования дефолта клиента и оптимизации портфельной прибыли банка: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
@@ -34,11 +36,8 @@
 ### Telco Customer Churn (Classification, Tabular Data)
 Задача бинарной классификации по прогнозированию оттока клиентов с использованием feature engineering и валидации моделей на табличных данных: https://github.com/garpastyls/Nut_Classify_CNN  
 
-### Nut Classification (CNN, PyTorch)
-Задача бинарной / многоклассовой классификации изображений: https://github.com/garpastyls/Nut_Classify_CNN
-
-### Мой kaggle
-https://www.kaggle.com/johngearonline
+### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
+Telegram-бот для транскрипции видео с YouTube (краткое содержание субтитров) и поиска субтитров RAG.
 
 ---
 
