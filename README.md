@@ -37,7 +37,7 @@ Development of a credit scoring model to predict client default and optimize ban
 Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/John-Gear/Telco-Customer-Churn
 
 ### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
-Telegram bot for YouTube video transcription (subtitle summary) and RAG subtitle search
+Telegram bot for YouTube video transcription (subtitle summary) and RAG subtitle search https://github.com/John-Gear/YTubeMind
 
 ---
 
