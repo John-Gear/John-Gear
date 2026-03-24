@@ -1,8 +1,8 @@
 # Hi, I'm Sergey Plotnikov  
-**Data Scientist / Machine Learning Engineer**
+**Machine Learning Engineer / Full-stack developer**
 
-I focus on applied machine learning and deep learning, with an emphasis on structured problem solving: EDA, feature engineering, model validation, and performance optimization.  
-My projects follow a Kaggle-style workflow with reproducible experiments and clear evaluation metrics.
+I focus on applied machine learning and deep learning, with an emphasis on structured problem solving.  
+I build full-stack projects: backend + UI (FastApi), fully reproducible via Docker. I also connect API and SQL-databases.
 
 ---
 
@@ -25,6 +25,10 @@ My projects follow a Kaggle-style workflow with reproducible experiments and cle
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## ML project
+
+### Nut Classification (CNN, PyTorch)
+Binary / multiclass image classification task: https://github.com/John-Gear/Nut_Classify_CNN
 
 ### Home Credit Default Risk - Credit Scoring ML Pipeline
 Development of a credit scoring model to predict client default and optimize bank portfolio profits: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
@@ -32,11 +36,8 @@ Development of a credit scoring model to predict client default and optimize ban
 ### Telco Customer Churn (Classification)
 Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/John-Gear/Telco-Customer-Churn
 
-### Nut Classification (CNN, PyTorch)
-Binary / multiclass image classification task: https://github.com/John-Gear/Nut_Classify_CNN
-
-### My kaggle:
-https://www.kaggle.com/johngearonline
+### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
+Telegram bot for YouTube video transcription (subtitle summary) and RAG subtitle search
 
 ---
 
