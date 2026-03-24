@@ -37,7 +37,7 @@
 Задача бинарной классификации по прогнозированию оттока клиентов с использованием feature engineering и валидации моделей на табличных данных: https://github.com/garpastyls/Nut_Classify_CNN  
 
 ### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
-Telegram-бот для транскрипции видео с YouTube (краткое содержание субтитров) и поиска субтитров RAG.
+Telegram-бот для транскрипции видео с YouTube (краткое содержание субтитров) и поиска субтитров RAG https://github.com/John-Gear/YTubeMind
 
 ---
 
