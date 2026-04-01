@@ -25,23 +25,18 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-## ML project
 
-### Nut Classification (CNN, PyTorch)
-Задача бинарной / многоклассовой классификации изображений: https://github.com/garpastyls/Nut_Classify_CNN
-
-### Home Credit Default Risk - Credit Scoring ML Pipeline
-Разработка модели кредитного скоринга для прогнозирования дефолта клиента и оптимизации портфельной прибыли банка: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
-
-### Telco Customer Churn (Classification, Tabular Data)
-Задача бинарной классификации по прогнозированию оттока клиентов с использованием feature engineering и валидации моделей на табличных данных: https://github.com/garpastyls/Nut_Classify_CNN  
-
-### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
-Telegram-бот для транскрипции видео с YouTube (краткое содержание субтитров) и поиска субтитров RAG https://github.com/John-Gear/YTubeMind
-
----
-
-## Другие проекты
+## Projects
+- Nut Classification (CNN, PyTorch)
+  https://github.com/John-Gear/Nut_Classify_CNN
+- Home Credit Default Risk - Credit Scoring ML Pipeline
+  https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
+- Telco Customer Churn (Classification)
+  https://github.com/John-Gear/Telco-Customer-Churn
+- YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
+  https://github.com/John-Gear/YTubeMind
+- Уandex vacancy search
+  https://github.com/John-Gear/yandex_vacancy_search
 - Trello to Planka Migration  
   https://github.com/John-Gear/Trello_to_Planka_migration_script_2
 - Planka Task Date Checker Bot  
