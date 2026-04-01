@@ -24,24 +24,17 @@ I build full-stack projects: backend + UI (FastApi), fully reproducible via Dock
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-## ML project
-
-### Nut Classification (CNN, PyTorch)
-Binary / multiclass image classification task: https://github.com/John-Gear/Nut_Classify_CNN
-
-### Home Credit Default Risk - Credit Scoring ML Pipeline
-Development of a credit scoring model to predict client default and optimize bank portfolio profits: https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
-
-### Telco Customer Churn (Classification)
-Binary classification problem focused on predicting customer churn using feature engineering and model validation on structured data: https://github.com/John-Gear/Telco-Customer-Churn
-
-### YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
-Telegram bot for YouTube video transcription (subtitle summary) and RAG subtitle search https://github.com/John-Gear/YTubeMind
-
----
-
-## Other projects
+## Projects
+- Nut Classification (CNN, PyTorch)
+  https://github.com/John-Gear/Nut_Classify_CNN
+- Home Credit Default Risk - Credit Scoring ML Pipeline
+  https://github.com/John-Gear/Home-Credit-Default-Risk-Kaggle-
+- Telco Customer Churn (Classification)
+  https://github.com/John-Gear/Telco-Customer-Churn
+- YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
+  https://github.com/John-Gear/YTubeMind
+- Уandex vacancy search
+  https://github.com/John-Gear/yandex_vacancy_search
 - Trello to Planka Migration  
   https://github.com/John-Gear/Trello_to_Planka_migration_script_2
 - Planka Task Date Checker Bot  
