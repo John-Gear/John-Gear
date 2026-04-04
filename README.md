@@ -25,6 +25,8 @@ I build full-stack projects: backend + UI (FastApi), fully reproducible via Dock
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Projects
+- N-GPT — LLM + RAG сервис для изучения Machine Learning
+  https://github.com/John-Gear/N_gpt
 - Nut Classification (CNN, PyTorch)
   https://github.com/John-Gear/Nut_Classify_CNN
 - Home Credit Default Risk - Credit Scoring ML Pipeline
