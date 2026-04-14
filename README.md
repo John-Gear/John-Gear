@@ -19,7 +19,7 @@ I build full-stack projects: backend + UI (FastApi), fully reproducible via Dock
   https://github.com/John-Gear/Telco-Customer-Churn
 - YTubeMind (API LLM, RAG-search, API Юкасса, YouTube API)
   https://github.com/John-Gear/YTubeMind
-- Уandex vacancy search
+- AI vacancy search
   https://github.com/John-Gear/yandex_vacancy_search
 - Trello to Planka Migration  
   https://github.com/John-Gear/Trello_to_Planka_migration_script_2
